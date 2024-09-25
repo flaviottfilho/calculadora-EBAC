@@ -1,7 +1,7 @@
 # calculadora-EBAC
  Calculator developed as an assignment for the Data Analyst course at EBAC
 
-# INSTRUCTIONS-EN 
+## INSTRUCTIONS-EN 
 
 - You MUST keep both "calculadora.sh" and "calculadora.py" in the same folder for it to work properly.
 
