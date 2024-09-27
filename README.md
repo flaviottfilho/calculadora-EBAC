@@ -51,3 +51,21 @@
 | 3 | Divisão |
 | 4 | Multiplicação |
 
+
+
+# Into the Code
+
+I started the code with a "while True" loop to make sure the user can only proceed after selecting one of the valid 4 options offered by the program. I then used a "if" conditional to raise a ValueError if the user inputs anything other than the numbers 1, 2, 3 or 4.
+
+After picking an option, the user will be prompted to input the first number, then the second number. I also used a "while True" loop on both entries to ensure the user inputs a number.
+
+After performing the operation with both numbers, the result is printed on the screen and the program is terminated.
+
+
+# Dentro do Código
+
+Iniciei o código com um loop "while True" para ter certeza que o usuário apenas consiga proceder depois de selecionar uma das quatro opções válidas oferecidas pelo programa. Então usei uma condicional "if" para levantar um ValueError caso o usuário insira qualquer coisa além dos números 1, 2, 3 ou 4.
+
+Depois de escolher uma opção, o programa irá pedir que o usuário insira o primeiro número, e então o segundo número. eu também usei um loop "while True" em ambas as entradas para assegurar que o usuário insira um número.
+
+Depois de realizar a operação com ambos os números, o resultado é mostrado na tela e o programa, encerrado.
